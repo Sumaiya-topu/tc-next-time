@@ -1,0 +1,9 @@
+[submodule "neat-bangladesh-client"]
+	path = neat-bangladesh-client
+	url = https://github.com/Sumaiya-topu/neat-bangladesh-client.git
+[submodule "neat-bangladesh-server"]
+	path = neat-bangladesh-server
+	url = https://github.com/samiulalimseam/neat-bangladesh-server.git
+[submodule "neat-bangladesh-diagram"]
+	path = neat-bangladesh-diagram
+	url = https://github.com/Sumaiya-topu/neat-bangladesh-diagram.git
